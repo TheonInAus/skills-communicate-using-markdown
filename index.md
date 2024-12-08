@@ -4,3 +4,7 @@
 ``` javascript
 let x = 1;
 ``` 
+
+- [ ] selection1
+- [ ] selection2
+- [ ] selection3
